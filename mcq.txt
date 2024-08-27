@@ -1,0 +1,87 @@
+Here are 10 multiple choice questions (MCQs) in Java:
+
+### 1. Which of the following is not a Java feature?
+   a) Object-oriented  
+   b) Dynamic  
+   c) Use of pointers  
+   d) Architecture-neutral  
+
+   **Answer:** c) Use of pointers
+
+### 2. What is the default value of a local variable in Java?
+   a) Null  
+   b) 0  
+   c) Depends on the data type  
+   d) No default value  
+
+   **Answer:** d) No default value
+
+### 3. Which of the following is a reserved keyword in Java?
+   a) Method  
+   b) Native  
+   c) Subclass  
+   d) Reference  
+
+   **Answer:** b) Native
+
+### 4. Which of these methods is used to get the length of a string in Java?
+   a) lengthof()  
+   b) getLength()  
+   c) len()  
+   d) length()  
+
+   **Answer:** d) length()
+
+### 5. Which of these data types is used by the Java programming language to represent numbers with decimal points?
+   a) int  
+   b) float  
+   c) char  
+   d) long  
+
+   **Answer:** b) float
+
+### 6. In which of the following cases is the 'this' keyword used?
+   a) To refer to the current object in a method  
+   b) To refer to the parent class  
+   c) To invoke the superclass constructor  
+   d) To create a new object  
+
+   **Answer:** a) To refer to the current object in a method
+
+### 7. Which of the following will directly stop the execution of a thread?
+   a) wait()  
+   b) notify()  
+   c) notifyAll()  
+   d) sleep()  
+
+   **Answer:** a) wait()
+
+### 8. What will be the output of the following code?
+
+```java
+int a = 5, b = 10;
+System.out.println(a++ + --b);
+```
+
+   a) 14  
+   b) 15  
+   c) 16  
+   d) 13  
+
+   **Answer:** a) 14
+
+### 9. What is the size of the 'int' data type in Java?
+   a) 8 bits  
+   b) 16 bits  
+   c) 32 bits  
+   d) 64 bits  
+
+   **Answer:** c) 32 bits
+
+### 10. Which of the following is a valid declaration of an array in Java?
+   a) int[] arr = new int[5];  
+   b) int arr[] = new int[5];  
+   c) int arr[] = new int[5];  
+   d) All of the above  
+
+   **Answer:** d) All of the above
